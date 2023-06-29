@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋 I'm Rojin Pm
 
 <div id="badges">
@@ -11,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWppMXJnbjM0N21oaHN1cTJraG1hNWUxMHZncnp5NWs1ZXh4dzRxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
