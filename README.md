@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rojin Pm
+![image](https://github.com/RojinPm/RojinPm/assets/68799700/4e954c3d-bf47-4b2b-ae91-f24df4146299)![image](https://github.com/RojinPm/RojinPm/assets/68799700/8d13ed85-0248-4a64-9356-ef814c2e55b8)### Hi there 👋 I'm Rojin Pm
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmc1ajBrNHU1bzdpM3A1eGZ1aHljYXlnaHA1bTJqYndoNW5mY3BoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" width="100"/>
@@ -23,30 +23,21 @@
 </div>
 ---
 ### :man_technologist: About Me :
-  I am a currently  MCA student in Amal Jyothi College,Kanjirapally and also working in amacecreatives a developer community in AJCE as Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rojin-pm-3855611a2/)
+: I am a currently  MCA student in Amal Jyothi College,Kanjirapally from India.
+: I’m working as a Software Engineer and contributing to frontend and backend for building web applications in amacecreatives a developer community in AJCE.
+  Exploring Technical Content Writing.
+: In my free time, I solve problems and read tech articles.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" title="React JS" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" title="Next Js" alt="Next JS" width="40" height="40"/>&nbsp;
+  <img src="https://yt3.googleusercontent.com/ytc/AGIKgqM8zh66fZqGKeTkopHaU9GM4zvyuFnQhXThr37u=s900-c-k-c0x00ffffff-no-rj" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://static.ebayinc.com/static/assets/Uploads/Stories/Articles/node.js.jpg" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/hevo/image/upload/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp;
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 ---
 
