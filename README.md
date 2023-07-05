@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am MCA student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working part-time as a Software developer and contributing to frontend and backend for building web applications in a developer community in my college named amacecreatives.
+- :telescope: I’m working part-time as a Software developer and contributing to frontend and backend for building web and mobile applications in a developer community in my college named amacecreatives.
 
 - :seedling: Exploring new programming languages and technologies.
 
