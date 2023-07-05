@@ -27,7 +27,7 @@ I am MCA student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I read tech articles and enjoy coding various top websites clone.
 
-- :mailbox:How to reach me: https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rojin-pm-3855611a2/)
+- :mailbox:How to reach me: https://www.linkedin.com/in/rojin-pm-3855611a2
 
 ---
 
