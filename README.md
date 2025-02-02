@@ -20,8 +20,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am MCA student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working part-time as a Software developer and contributing to frontend and backend for building web and mobile applications in a developer community in my college named amacecreatives.
+I'm a passionate Full Stack Developer and UI/UX Designer crafting digital experiences that make a difference. I transform complex problems into elegant solutions. My journey in tech is driven by curiosity and a constant desire to learn and innovate.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :seedling: Exploring new programming languages and technologies.
 
