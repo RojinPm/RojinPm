@@ -1,3 +1,5 @@
+
+<html>
 <style>
   .flexdiv{
     display:flex;
@@ -6,7 +8,7 @@
   }
    
 </style>
-
+</html>
 
 
 <div class="flexdiv>
