@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rojin Pm Full Stack Developer & Agentic AI Developer
+### Hi there 👋 I'm Rojin Pm Full Stack & Agentic AI Developer
 
  My Skills 
 
